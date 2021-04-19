@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "51769225826",
+    "project_id": "flash-chat-d0c64",
+    "storage_bucket": "flash-chat-d0c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51769225826:android:f145f6478df7f79541173b",
+        "android_client_info": {
+          "package_name": "co.laurent.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51769225826-h1akdt6ehrpfpvvir94qmnshsngqf321.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshJcC_qZa5vcapHwI6CIH1OGtqcdnwxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51769225826-h1akdt6ehrpfpvvir94qmnshsngqf321.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51769225826-cr66i194tr2b2h0ghgpnud0b7svier0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.laurent.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
